@@ -1,0 +1,17 @@
+- [ ] API Managment
+- [ ] App Configuration
+- [ ] App Service
+- [ ] Automation
+- [ ] Azure AI Bot Service
+- [ ] Azure Cosmos DB
+- [ ] Azure DevOps
+- [ ] Cloud Shell
+- [ ] Container Apps
+- [ ] Data Catalog
+- [ ] DevTest Labs
+- [ ] Functions
+- [ ] Health Bot
+- [ ] Entra ID
+- [ ] Monitor
+- [ ] SQL Database
+- [ ] Text to Speech
